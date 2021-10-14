@@ -1,4 +1,6 @@
 Run and jump to avoid obstacles
+![alt text](https://raw.githubusercontent.com/nuttanon211211/pygame/runner/screenshots/game.png)
+                                      
 
 ### How to play:<br>
 (run python game)<br>
