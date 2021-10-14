@@ -12,3 +12,11 @@ press [Space Bar] for jumping and starting the game<br>
 press [Left Arrow] to move character to the left<br>
 press [Right Arrow] to move character to the right<br>
 all [Buttons] can be holded
+<br>
+### ---------------------
+features:
+ - snow particle (nice)
+ - score (by jump)
+ - can double jump (press space 2 times!)
+ - incresing difficulty over time!!
+ - support window resizing
